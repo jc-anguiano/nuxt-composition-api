@@ -1,6 +1,6 @@
-# client
+# nuxt/pinia/composition api
 
-> My dazzling Nuxt.js project
+> Nuxt with vue composition api support
 
 ## Build Setup
 
